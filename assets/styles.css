@@ -97,5 +97,5 @@ body{
     20%{filter: blur(5px) brightness(1);}
 }
 .input{
-    padding: 2rem;
+    padding: 1rem;
 }
